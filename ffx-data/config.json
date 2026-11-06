@@ -3,18 +3,5 @@
   "ffBanner": null,
   "ffPackages": null,
   "banners": null,
-  "quick": [
-    {
-      "label": "Telegram",
-      "url": "https://t.me/SOCIALTASKER_7"
-    },
-    {
-      "label": "Join Group",
-      "url": ""
-    },
-    {
-      "label": "YouTube",
-      "url": ""
-    }
-  ]
+  "quick": null
 }
