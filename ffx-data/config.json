@@ -1,7 +1,6 @@
 {
   "logo": null,
   "ffBanner": null,
-  "ffPackages": null,
   "banners": [
     "default:Banner 1.jpg",
     "default:Banner 2.jpg",
@@ -9,5 +8,10 @@
     "banner-1793932937256-9061.jpg",
     "banner-1793933343994-1286.jpg"
   ],
-  "quick": null
+  "quick": null,
+  "images": null,
+  "prod": null,
+  "texts": {
+    "pop": "সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট\n১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে\nঅর্ডার করুন নিশ্চিন্তে 🥰❤️"
+  }
 }
